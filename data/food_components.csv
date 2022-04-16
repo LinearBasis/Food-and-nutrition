@@ -1,4 +1,4 @@
-Food Component,Unit of measure,Adults and Children >=4 years,Infants through 2 monts, Children 1 throught 3 years, Pregnant women and lactating women
+Food Component,Unit of measure,Adults and Children >= 4 years,Infants through 12 months, Children 1 through 3 years, Pregnant women and lactating women
 Fat,Grams (g),78,30,39,78
 Saturated fat,Grams (g),20,NA,10,20
 Cholesterol,Milligrams (mg),300,NA,300,300
